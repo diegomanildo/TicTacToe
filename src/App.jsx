@@ -54,7 +54,7 @@ function App() {
   return (
     <main className="board">
       <h1>Tic Tac Toe</h1>
-      <button onClick={resetGame}>Reiniciar juego</button>
+      <button onClick={resetGame}>Restart Game</button>
       <BoardModal board={board} updateBoard={updateBoard} />
 
       <TurnModal turn={turn} />

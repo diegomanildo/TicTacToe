@@ -2,15 +2,9 @@
 
 TicTacToe proyect using React + Vite
 
-## 📝 Description
-This game is a Wordle clone where you must guess a within attempts. After each attempt:
-- ✅ **Green** indicates the letter is in the correct position.
-- 🟡 **Yellow** indicates the letter is in the word but in a different position.
-- ❌ **Gray** indicates the letter is not in the word.
-
 ## 🌍 Website
 Try the game online here:  
-[🔗 Wordle](https://diegomanildo.github.io/TicTacToe/)
+[🔗 TicTacToe](https://diegomanildo.github.io/TicTacToe/)
 
 ## 🤝 Contributions
 Contributions are welcome! If you want to improve the game or add new features:
